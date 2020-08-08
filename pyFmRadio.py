@@ -4,7 +4,7 @@
 #!/usr/bin/python
 
 import threading
-import Queue
+import queue
 import struct
 import pyaudio
 import numpy as np
